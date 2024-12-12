@@ -1,5 +1,4 @@
-
-# OFP Decrypter by [SEZAN-X](https://github.com/sezanX/)
+## OFP Decrypter by [SEZAN-X](https://github.com/sezanX/)
 
 **OFP Decrypter** is a GitHub Actions workflow designed to decrypt OPPO Firmware Package (OFP) files. It supports both Qualcomm (QC) and MediaTek (MTK) OFP formats. The decrypted files are zipped and uploaded to your SourceForge directory for easy access.
 
